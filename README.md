@@ -1,5 +1,6 @@
 # BaiTap
 Bài tập
-https://vankhoanguyen.github.io/BaiTap/ 	
-Home Work Lab Guide1 https://vankhoanguyen.github.io/BaiTap/LG_Homework.html
-https://vankhoanguyen.github.io/BaiTap/LG02_linkSite.html
+https://vankhoanguyen.github.io/LabGuide/LG1/LG_Homework.html	
+https://vankhoanguyen.github.io/LabGuide/LG2
+https://vankhoanguyen.github.io/LabGuide/LG3
+
