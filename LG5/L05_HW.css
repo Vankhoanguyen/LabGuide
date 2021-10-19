@@ -1,0 +1,37 @@
+p:nth-child(1){
+    font-size: 2.5rem;
+    text-align: center;
+    border: black thick solid;
+    background-color: wheat;
+}
+
+p{
+    font-size: 2em;
+}
+
+.from{
+    text-align: center;
+    border: darkgray solid thick;
+    background-color: whitesmoke;
+}
+
+.ima{
+    text-align: center;
+}
+
+img:nth-child(1){
+    width: 60%;
+    padding: 0.1em; /* Tạo khoảng cách không gian xung quanh*/
+}
+
+img:nth-child(n+2)/* n = 0 và tăng dần */
+{   
+    width: 30%;
+    margin-left: 0.2rem; /*Khoảng cách bên trái giữa các ảnh */
+    margin-right: 0.2rem; /*Khoảng cách bên phải giữa các ảnh */
+}
+
+figure{
+    text-align: center;
+    font-size: 2em;
+}
