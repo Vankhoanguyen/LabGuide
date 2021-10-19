@@ -1,0 +1,17 @@
+h2{
+    font-family: Georgia;
+    text-align: center;
+    color: maroon;
+}
+table{
+    width: 80%;
+    border: maroon solid thin; /*xác định kiểu đường viền sẽ hiển thị. 
+    Soid là đường nét thẳng*/
+    text-align: center;
+    padding: 10px; /*để tạo khoảng trắng xung quanh
+    nội dung của phần tử và nằm bên trong các đường viền*/
+    margin: 10px; /*được dùng để tạo khoảng trắng xung quanh phần tử,
+    bên ngoài các đường viền*/
+    box-shadow: 3px 3px 2px lightgrey; /*sử dụng để tạo bóng cho các phần tử có dạng box, 
+    có tác dụng với các đường viền, giúp phần tử hiển thị nổi bật tương tự kiểu hộp 3D*/
+}
