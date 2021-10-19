@@ -1,0 +1,25 @@
+*{
+    font-family: Arial, Verdana, sans-serif;
+    color: #654;
+    text-align: center;
+}
+
+#content{
+    background-color: aquamarine;
+    height: 12em;
+    margin-bottom: 1em;
+    margin: 1%;
+    overflow: auto;
+}
+
+#menu
+#footer{
+    background-color: lightgray;
+    padding: 0.5em 0;
+    margin: 1%;
+}
+
+a{
+    padding: 1em;
+    display: inline-block;
+}
