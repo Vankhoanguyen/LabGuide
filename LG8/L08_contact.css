@@ -1,0 +1,25 @@
+
+body{
+    background-color: #93C8FF;
+}
+
+h2{
+    margin-left: 4rem;
+    color: rgb(255, 17, 0);
+}
+p{
+    margin-left: 1rem;
+}
+
+a{
+    text-decoration: none; 
+}
+
+a:hover{
+    color: red;
+}
+
+img{
+    margin-right: 0.6rem;
+    height: 35px;
+}
