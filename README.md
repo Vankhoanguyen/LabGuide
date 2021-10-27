@@ -8,3 +8,4 @@ https://vankhoanguyen.github.io/LabGuide/LG5/L05_HW.html
 https://vankhoanguyen.github.io/LabGuide/LG6/L06_LB.html
 https://vankhoanguyen.github.io/LabGuide/LG7/top5.html
 https://vankhoanguyen.github.io/LabGuide/LG8/L08_homeHW.html
+https://vankhoanguyen.github.io/LabGuide/pretest2/Pretest2.html
