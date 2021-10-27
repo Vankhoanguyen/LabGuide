@@ -1,0 +1,93 @@
+* {
+    margin: 0;
+    padding: 0;
+  }
+  
+
+  #header {
+    background: #3399FF;
+    color: white;
+
+    height: 50px;
+    padding: 1rem;
+    border-bottom: black solid 4px;
+  }
+
+  #header1 {
+    background: #3399FF;
+    color: white;
+    float: left;
+    width: 200px;
+    border-radius: 0rem 2rem 2rem 0rem;    
+    /*giá trị đầu tiên áp dụng cho góc trên cùng bên trái,
+    giá trị thứ hai áp dụng cho góc trên cùng bên phải,
+    giá trị thứ ba áp dụng cho góc dưới cùng bên phải và 
+    giá trị thứ tư áp dụng cho góc dưới cùng bên trái*/
+    margin-left: -0.5rem ;
+    padding: 0.2rem;
+    box-shadow: 3px 3px 5px black;
+}
+
+  #header2 {
+    background: #3399FF;
+    color: black;
+    float: right;
+    font-size: 14px;
+    text-align: center;
+    margin-top: 0.8rem;
+    margin-right: 2rem;
+  }
+
+  #kt{
+      height: 20px;
+      width: 100%;
+      background-color: #00FFFF;
+  }
+
+  #thea{
+      padding-top: 30px;
+      text-align: center;
+      color: #6600CC;
+      font-family: 'Ubuntu', sans-serif;
+      font-size: 20px;
+      background-color: #00CCFF;
+      height: 80px;
+      font-weight: 900;
+      text-shadow: 0px 0px 5px #FFD321;
+  }
+  
+  #anhlogo{
+      margin-top: -5rem;
+      margin-left: 1.5rem;
+  }
+
+  #content{
+      text-align: center;
+      margin-top: -2rem;
+}
+  .column {
+    float: left;
+    width: 50%;
+    text-align: center;
+  }
+  
+  /* Clear floats after the columns */
+  .row:after {
+    content: "";
+    display: table;
+    clear: both;
+    padding: 1rem;
+  }
+
+#linkb{
+    margin-top: -44%;
+    margin-left: 19%;
+}
+a{
+    font-size: 18px;
+    text-decoration: none; /*bỏ gạch chân link*/
+    color: #6600CC
+}
+a:hover{
+    color: red;
+}
